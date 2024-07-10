@@ -32,7 +32,7 @@ html {
 
 p {
   color: rgb(0, 0, 0);
-  font-size: 20px;
+  font-size: 10px;
 }
 
 
@@ -231,7 +231,6 @@ section {
 .icon {
   cursor: pointer;
   height: 3rem;
-  font-size: 20px;
 }
 
 /* BUTTONS */
@@ -361,7 +360,7 @@ section {
   text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 14.0rem;
+  gap: 5.0rem;
   justify-content: center;
 }
 
@@ -370,7 +369,7 @@ article {
   width: 10rem;
   justify-content: center;
   gap: 0.5rem;
-  font-size: 20px;
+  font-size: 10px;
 }
 
 article .icon {
