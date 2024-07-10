@@ -23,7 +23,7 @@ code {
 
 body {
   font-family: "Poppins", sans-serif;
-  font-size: 10px;
+  font-size: 20px;
 }
 
 html {
@@ -32,7 +32,7 @@ html {
 
 p {
   color: rgb(0, 0, 0);
-  font-size: 10px;
+  font-size: 20px;
 }
 
 
@@ -437,11 +437,11 @@ article .icon {
 
 .contact-icon {
   cursor: default;
-  height: 3rem;
+  height: 2.0rem;
 }
 
 .email-icon {
-  height: 3.8rem;
+  height: 2.8rem;
 }
 
 
@@ -454,4 +454,5 @@ footer {
 
 footer p {
   text-align: center;
+  font-size: 8.0px;
 }
