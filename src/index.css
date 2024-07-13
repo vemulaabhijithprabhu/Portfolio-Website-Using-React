@@ -460,12 +460,13 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-  height: 20vh;
-  margin: 0 1rem;
-  background-color: #FFE133;
+  height: auto;
+  margin: 0 0 0 0rem;
+  background-color: rgba(7, 177, 244, 0.063);
 }
 
 footer p {
   text-align: center;
   font-size: 15px;
+  padding-bottom: 10px;
 }
