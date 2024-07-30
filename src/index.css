@@ -87,7 +87,7 @@ a:hover {
 
 #hamburger-nav {
   display: none;
-  background-color: #170478;
+  background-color: none;
 }
 
 .hamburger-menu {
