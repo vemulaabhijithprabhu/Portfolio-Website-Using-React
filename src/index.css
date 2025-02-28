@@ -432,7 +432,7 @@ article .icon {
 }
 
 .contact-info-container p {
-  font-size: 12px;
+  font-size: 20px;
 }
 
 .contact-icon {
@@ -442,6 +442,10 @@ article .icon {
 
 .email-icon {
   height: 2.8rem;
+}
+
+.title {
+font-size: 10px
 }
 
 
